@@ -1,6 +1,7 @@
 # Overview
 - Introduction to Git
 - Git as Version Control
+- Git, GitHub, and GitHub Desktop
 - Question Time 1
 - Git to Collaborate
 - Question Time 2
@@ -24,6 +25,15 @@ Git has many different use cases, some of the most common uses are:
 - Organization of code
 - Tracking incomplete code
 - Tracking different versions of code
+
+## Git, GitHub, and GitHub Desktop
+Git is a version control system.
+GitHub is a popular website that hosts git repositories (source code and its Git history).
+GitHub Desktop is a great interface for using Git and GitHub.
+I will be using all three to demonstrate the power of version control.
+
+Although GitHub and GitHub Desktop are wonderful tools, they are not needed to use Git.
+One could just as easily use the command line or another client like GitKraken instead of GitHub Desktop and/or another hosting service like GitLab instead of GitHub.
 
 #  Git as Version Control
 ## Snapshots
