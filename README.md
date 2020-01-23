@@ -12,7 +12,7 @@
 ## What is Git?
 Git is a version control system often used to keep track of changes in source code and to collaborate with other programmers.
 Though source code is not the only use for Git as it can be extended to other text-based file formats like this.
-An example would be using Git for amendments to The U.S. Constitution: github.com/JesseKPhillips/USA-Constitution.
+An example would be using Git for amendments to The U.S. Constitution: https://github.com/JesseKPhillips/USA-Constitution.
 
 ![Priorities of Software Development](https://i.imgur.com/IiAdxbB.png)
 
