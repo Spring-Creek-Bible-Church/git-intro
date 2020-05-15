@@ -1,2 +1,2 @@
 ###How does Netlify for Github work? 
-When you make a change to a file on GitHub, [Netlify](https://netlify.com) checks to see what you uploaded. It then copies the changes over and starts a [deploy](https://docs.netlify.com/site-deploys/overview/). As part of the deploy, all CSS and JS are minified and bundled respectively. 
+When you make a change to a file on GitHub, [Netlify](https://netlify.com) checks to see what you uploaded. It then copies the changes over and starts a [deploy](https://docs.netlify.com/site-deploys/overview/). As part of the deploy, all CSS and JS are minified and bundled respectively.
