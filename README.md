@@ -81,8 +81,6 @@ However, if we want to add functionality to convert to another data format, we m
 
 ![An Example Branch Diagram](https://git-scm.com/book/en/v2/images/basic-branching-4.png)
 
-# Question Time 1
-Any questions about using Git as version control?
 
 # Git to Collaborate
 ## Pushing and Pulling
@@ -99,8 +97,6 @@ One of the features that GitHub provides for collaborating is something called _
 A pull request has many uses, but some of the most important uses are to provide a place to communicate regarding a branch of development and document discussions about the branch and, most of the time, the eventual merge of the code from the branch into the branch where it split from.
 We can demonstrate this in GitHub with a simple branch.
 
-# Question Time 2
-Any questions about using Git to collaborate?
 
 # Resources
 - https://guides.github.com/activities/hello-world/
